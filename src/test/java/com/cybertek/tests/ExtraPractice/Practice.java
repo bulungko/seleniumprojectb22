@@ -25,7 +25,7 @@ public class Practice {
         //Is the Forgot password? option working as expected?
         //Is every link on the page working as expected?
 
-
+        1.Go to site https://qa3.vytrack.com/user/login  2.Enter Invalid User ID 3. Enter Password 4.Click submit
 
     }
 }
